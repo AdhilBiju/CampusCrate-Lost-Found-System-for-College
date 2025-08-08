@@ -22,6 +22,7 @@ Responsive design (Material UI / TailwindCSS)
 
 Modern folder structure, ready for deployment
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/eaedf0ca-979a-404e-aa0a-444fc5280acd" />
 
 🌎 Main Tech Stack
 Frontend: React, React Router, Axios, MUI/Tailwind CSS
@@ -29,6 +30,7 @@ Frontend: React, React Router, Axios, MUI/Tailwind CSS
 Backend: Node.js, Express.js, Passport.js (Google OAuth), JWT, Multer, Cloudinary
 
 Database: MongoDB + Mongoose
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/27b75ec6-81e4-4525-8fcf-b476e592cac6" />
 
 
 🤖 API Routes Overview
