@@ -60,7 +60,7 @@ app.use(passport.session())
 //     });
 // });
 
-// mongoose.connect('mongodb+srv://swarupkumar:eashok410@lfs.q2in2.mongodb.net/test',{
+// mongoose.connect('mongodb+srv://placeholder',{
 //     useNewUrlParser: true,
 //     useUnifiedTopology:true,
 //     useCreateIndex:true
@@ -82,3 +82,4 @@ app.use('/',category)
 
 
 app.listen(port,()=> console.log(`Listening to port ${port} !!`))
+
